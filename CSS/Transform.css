@@ -1,0 +1,6 @@
+.caja {
+    background: #ffaa5a;
+    width: 200px;
+    height: 200px;
+    transform:rotate(30deg)
+}

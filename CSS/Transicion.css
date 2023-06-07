@@ -1,0 +1,12 @@
+.caja {
+    background: #21295c;
+    width: 200px;
+    height: 200px;
+    transition:all 1s ease ;
+}
+
+.caja:hover {
+    background: #9eb3c2;
+    width: 400px;
+    transform:rotate(180deg);
+}
